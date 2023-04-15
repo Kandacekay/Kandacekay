@@ -1,6 +1,8 @@
 ### **Thanks For Stopping By**
 ### *I am Kandace*
 
+## **ABOUT ME** 
+A hunger for knowledge drives me. My excitement lies in learning how to code and utilizing my creativity and curiosity to excel both biologically and technologically.
 <!--
 **Kandacekay/Kandacekay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
