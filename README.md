@@ -2,7 +2,10 @@
 ## *I am Kandace*
 
 ### **ABOUT ME** 
-A hunger for knowledge drives me. My excitement lies in learning how to code and utilizing my creativity and curiosity to excel both biologically and technologically.
+##A hunger for knowledge drives me. 
+##My excitement lies in learning how to code and utilizing my creativity and curiosity to excel both biologically and technologically.
+##:woman_student:  AS in Biotechnology: Spring 2023
+##:computer: Data Science Bootcamp: May 2023-November 2023 
 <!--
 **Kandacekay/Kandacekay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
