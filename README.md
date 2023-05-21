@@ -4,8 +4,9 @@
 ### **ABOUT ME** 
 ## A hunger for knowledge drives me. 
 ## My excitement lies in learning how to code and utilizing my creativity and curiosity to excel both biologically and technologically.
-## :woman_student:  AS in Biotechnology: Spring 2023
-## :computer: Data Science Bootcamp: May 2023-November 2023 
+## :woman_student: 2023 AS in Biotechnology
+## :woman_student: 2023 AA in Liberal Arts
+## :computer: May 2023 - November 2023 Data Science Bootcamp
 <!--
 **Kandacekay/Kandacekay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
